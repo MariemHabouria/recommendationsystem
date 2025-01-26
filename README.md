@@ -1,5 +1,5 @@
 # LIKA-AI-PFE
-Recommendation System for Live Streaming Platform
+# Recommendation System for Live Streaming Platform
 This repository contains the implementation and documentation of a recommendation system developed for a video and live-streaming platform. The system aims to enhance user engagement by providing personalized content recommendations based on user preferences and interactions.
 
 📖 Project Overview
